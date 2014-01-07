@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BTDemoKit</string>
+	<string name="input">In</string>
+	<string name="output">Out</string>
+	<string name="no_device">Please connect a DemoKit board.</string>
+	<string name="servo1Label">Servo<sub>1</sub></string>
+	<string name="ledLabel">LED<sub>1</sub></string>
+	<string name="relay1Label">Relay<sub>1</sub></string>
+	<string name="relay2Label">Relay<sub>2</sub></string>
+	<string name="off">Off</string>
+	<string name="on">On</string>
+
+    <!--  DeviceListActivity -->
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled.</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+</resources>
