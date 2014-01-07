@@ -12,7 +12,7 @@ Android用デモアプリサンプルソースコード
 ---------
 * Android-2.0 (Android 2.0用)
 * Arduino-2.3.3 (Arduino 2.3.3用)
-* Android TwitterClientサンプルソースコード
+* TwitterClient Androidサンプルソースコード
 
 Bluetoothシールド：SBS-BT001
 ---------
