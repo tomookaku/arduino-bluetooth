@@ -42,7 +42,7 @@ FB155BCは、Bluetooth 2.1 Class 2に準拠した国内電波法認証取得済�
 * 動作電圧：　3.3V
 * ピンピッチ：　2.54mmピッチ
 　ブレッドボードにそのまま挿せます！
-* ユーザーガイド (<http://www.firmtech.co.kr/02download/bluetooth/manual/FB155_User_Guide(Eng).pdf>)
-* ATコマンド説明書（<http://www.firmtech.co.kr/02download/datasheet/appendix/AppendixB_Eng.pdf>）
+* ユーザーガイド (<http://www.firmtech.co.kr/bizdemo4649/img/eng/manual/fb155bx/FB155_User_Guide(Eng).pdf>)
+* ATコマンド説明書（<http://www.firmtech.co.kr/bizdemo4649/img/eng/manual/fb155bx/AppendixB_Eng.pdf>）
 
 
